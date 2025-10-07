@@ -11,7 +11,7 @@ extensions = [
     'sphinxext.rediraffe',
 ]
 
-# The master toctree document.
+# The toctree document.
 master_doc = 'index'
 
 # General information about the project.
@@ -236,3 +236,4 @@ ogp_custom_meta_tags = [
 copybutton_prompt_text = "$ "
 # https://sphinx-copybutton.readthedocs.io/en/latest/use.html#honor-line-continuation-characters-when-copying-multline-snippets
 copybutton_line_continuation_character = "\\"
+
